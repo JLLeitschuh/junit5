@@ -31,6 +31,9 @@ to file feature requests and bug reports using the project's
 <a href="https://github.com/junit-team/junit5/issues?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs">`up-for-grabs`</a>
 label are specifically targeted for community contributions.
 
+## Getting Help
+Ask JUnit 5 related questions on [StackOverflow] or chat with us on [Gitter].
+
 ## Continuous Integration Builds
 
 | CI Server | OS      | Status | Description |
@@ -128,3 +131,5 @@ See also <http://repo1.maven.org/maven2/org/junit/> for releases and <https://os
 [JUnit 5 User Guide]: http://junit.org/junit5/docs/current/user-guide/
 [Prototype]: https://github.com/junit-team/junit5/wiki/Prototype
 [Twitter]: https://twitter.com/junitlambda
+[StackOverflow]: https://stackoverflow.com/questions/tagged/junit5
+[Gitter]: https://gitter.im/junit-team/junit5
